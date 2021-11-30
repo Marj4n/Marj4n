@@ -1,14 +1,4 @@
-<style>
-  .cirno{
-    text-align: center;
-    width: 350px;
-    vertical-align: middle;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
-<a href="#"><img class="cirno" src="https://c.tenor.com/jVTOMVDbw0sAAAAC/cirno-fumo.gif"/></a>
+<img align="center" width="350px" src="https://c.tenor.com/jVTOMVDbw0sAAAAC/cirno-fumo.gif"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kevin</h1>
 <h3 align="center">I'm a Front-end developer</h3>
