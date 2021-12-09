@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
+- 🌐 Visit my website **https://kvn.netlify.app/**
+
 - 📫 How to reach me **nivkaiser@gmail.com**
 
 - ⚡ Fun fact **I play games and code every day.**
