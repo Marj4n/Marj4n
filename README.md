@@ -9,7 +9,7 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Backend stuff**
 
 - 🌐 Visit my website **https://kvn.netlify.app/**
 
