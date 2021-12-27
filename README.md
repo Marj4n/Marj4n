@@ -25,6 +25,7 @@
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/sass.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 </p>
