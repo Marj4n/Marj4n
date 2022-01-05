@@ -9,7 +9,7 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **Back end stuff**
+- 🌱 I’m currently learning **Design stuff**
 
 - 🌐 Visit my website **https://kvn.netlify.app/**
 
