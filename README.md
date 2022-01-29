@@ -28,7 +28,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/tailwind.svg"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src"https://github.com/Nivth/icon/blob/main/php.svg"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/php.svg"/> </a>
 </p>
 
 <br/>
