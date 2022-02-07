@@ -26,7 +26,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/tailwind.svg"/> </a> 
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/55/000000/nodejs.png"/> </a>
+    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/50/node-js.png"/> </a>
     <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/expressjs.svg"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/php.svg"/> </a>
 </p>
