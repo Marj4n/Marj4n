@@ -61,7 +61,7 @@
 
 <a href = "https://www.linkedin.com/in/kevin-yardan-fauzan-73baaa21b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Nivth22"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/v____v______v/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/__kevnnn_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCWo0Tm0d2bYvUv1LGggUXyA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
