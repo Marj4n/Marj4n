@@ -9,7 +9,7 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **backend stuff**
+- 🌱 I’m currently learning **C# and Unity**
 
 - 🌐 Visit my website **https://kvn.netlify.app/**
 
