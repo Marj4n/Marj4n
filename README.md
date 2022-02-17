@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I play games and code every day.**
 
-## 🚀 Languages and Tools:
+## Languages and Tools
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -39,7 +39,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nivth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
