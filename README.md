@@ -29,6 +29,7 @@
     <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/node-js.png"/> </a>
     <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/expressjs.svg"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/php.svg"/> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/c%23.svg"/> </a>
 </p>
 
 <br/>
