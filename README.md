@@ -9,7 +9,7 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **Next JS and mySQL**
+- 🌱 I’m currently learning **Next JS**
 
 - 🌐 Visit my website **https://kvn.netlify.app/**
 
