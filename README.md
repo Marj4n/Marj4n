@@ -9,7 +9,7 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 🌐 Visit my website **https://kvn.netlify.app/**
 
