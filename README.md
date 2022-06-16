@@ -2,7 +2,7 @@
 <img width="350px"  src="https://c.tenor.com/jVTOMVDbw0sAAAAC/cirno-fumo.gif"/>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8px" height="8px">, I'm Kevin</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Kevin</h1>
 <h3 align="center">I'm a Fullstack developer</h3>
 
 
