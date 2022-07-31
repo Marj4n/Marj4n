@@ -30,6 +30,7 @@
     <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/expressjs.svg"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/php.svg"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/c%23.svg"/> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
 
 <br/>
