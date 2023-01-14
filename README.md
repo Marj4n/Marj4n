@@ -2,18 +2,18 @@
 <img width="350px"  src="https://c.tenor.com/jVTOMVDbw0sAAAAC/cirno-fumo.gif"/>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Kevin</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Niv</h1>
 <h3 align="center">I'm a Fullstack developer</h3>
 
 
 ## About Me
 
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Algoritm**
 
-- 🌐 Visit my website **https://kvn.netlify.app/**
+- 🌐 Visit my website **https://nivekts.vercel.app**
 
-- 📫 How to reach me **nivkaiser@gmail.com**
+- 📫 How to reach me **kevinyf.ts@gmail.com**
 
 - ⚡ Fun fact **I play games and code every day.**
 
@@ -37,15 +37,15 @@
 
 <p align="left">
     <a>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nivth&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j&stroke=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&currStreakLabel=DC143C&ring=DC143C&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Marjannnnnn&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j&stroke=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&currStreakLabel=DC143C&ring=DC143C&background=0D1117"/>
     </a>
 </p>
 
 ## My Github Stats
 
   <br/>
-    <a><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nivth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></a>
-  <a><img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivth&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C" /></a>
+    <a><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marjannnnnn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></a>
+  <a><img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marjannnnnn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nivth&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Marjannnnnn&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
