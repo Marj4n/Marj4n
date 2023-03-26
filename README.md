@@ -48,10 +48,6 @@
 <br/>
 <br/>
 
-<a><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Marjannnnnn&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
