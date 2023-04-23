@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Algoritm**
 
-- 🌐 Visit my website **https://nivekts.vercel.app**
+- 🌐 Visit my website **nivekts.me**
 
 - 📫 How to reach me **kevinyf.ts@gmail.com**
 
