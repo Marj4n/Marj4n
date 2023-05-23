@@ -32,15 +32,15 @@
 
 <p align="left">
     <a>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Marjannnnnn&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j&stroke=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&currStreakLabel=DC143C&ring=DC143C&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="marjan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Marj4n&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j&stroke=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&currStreakLabel=DC143C&ring=DC143C&background=0D1117"/>
     </a>
 </p>
 
 ## My Github Stats
 
   <br/>
-    <a><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marjannnnnn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></a>
-  <a><img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marjannnnnn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C" /></a>
+    <a><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marj4n&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></a>
+  <a><img alt="Marjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marj4n&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
