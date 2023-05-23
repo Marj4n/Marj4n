@@ -4,31 +4,24 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **Algoritm**
-
 - 🌐 Visit my website **https://nivekts.me/**
 
 - 📫 How to reach me **kevinyf.ts@gmail.com**
 
 - ⚡ Fun fact **I play games and code every day.**
 
-## Languages and Tools
+## Languages
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/Marjannnnnn/icon/blob/main/tailwind.svg"/> </a> 
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/node-js.png"/> </a>
-    <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/Marjannnnnn/icon/blob/main/expressjs.svg"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/Marjannnnnn/icon/blob/main/php.svg"/> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/Marjannnnnn/icon/blob/main/c%23.svg"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> </a>
-</p>
+<a><img alt="Marjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marj4n&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C" /></a>
 
 <br/>
+
+
+## My Github Stats
+
+  <br/>
+    <a><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marj4n&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></a>
+  <br/>
 
 <p align="left">
     <a>
@@ -36,13 +29,6 @@
     </a>
 </p>
 
-## My Github Stats
-
-  <br/>
-    <a><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marj4n&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></a>
-  <a><img alt="Marjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marj4n&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
