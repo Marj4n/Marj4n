@@ -1,4 +1,4 @@
-<h3 align="center">I'm a Fullstack developer</h3>
+<h3 align="center">I'm a Fullstack & Android developer</h3>
 
 
 ## About Me
