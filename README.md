@@ -4,7 +4,7 @@
 ## About Me
 
 
-- 🌐 Visit my website **https://nivekts.me/**
+- 🌐 Visit my website **[https://nivekts.me/](https://nivekts.vercel.app/)**
 
 - 📫 How to reach me **kevinyf.ts@gmail.com**
 
