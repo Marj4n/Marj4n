@@ -15,8 +15,8 @@ Frameworks: React, Next.js, NestJS, Flutter, SolidJS
 Languages: JavaScript, TypeScript, HTML, CSS,
            Kotlin, Python, PHP
 Databases: MySQL, PostgreSQL, MongoDB, Firebase
-Learning: Data Mining, AI, Docker, Three.js
-Hobbies: Gaming, Guitar, Investing
+Learning: Data Mining, AI, Finance, Trading
+Hobbies: Gaming, Playing Guitar
 Stars: 42
 ```
 
