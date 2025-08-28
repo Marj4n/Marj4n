@@ -5,7 +5,7 @@
 <img align="left" src="assets/cirno.png" alt="Cirno is the strongest" width="320" />
 
 ```csharp
-Marj4n@github - FullStack developer (Frontend, Backend, Mobile)
+Marj4n@github - FullStack Developer (Frontend, Backend, Mobile)
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.9
