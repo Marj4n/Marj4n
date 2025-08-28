@@ -8,7 +8,7 @@
 Marj4n@github - FullStack developer (Frontend, Backend, Mobile)
 -------------------------
 OS: Arch Linux x86_64
-Shell: Marjan | Terminal
+Shell: zsh 5.9
 Pronouns: He/Him
 Location: Bogor, West Java, Indonesia
 Frameworks: React, Next.js, NestJS, Flutter, SolidJS
